@@ -1,6 +1,6 @@
 <div align="center">
 
-# Python-Korean-word-chain-game
+# Python - Korean word chain game
 **파이썬 한국어 끝말잇기 게임**
 
 2020 웹파이썬프로그래밍 텀프로젝트<br>
