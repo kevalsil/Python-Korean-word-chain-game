@@ -12,7 +12,7 @@ It is a Python code that allows you to wordplay in Korean with a computer 🖥�
 
 <img src="파이썬 횟수 대결 플레이.png">
 
-## 사용법 | How to Use
+## 사용법 | How to use
 
 final_project.py를 실행시킵니다.<br>
 Run final_project.py.
